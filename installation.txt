@@ -1,0 +1,18 @@
+how to install?
+
+Unzip "upload.zip" package in an empty directory on your web server where you want to install the script.
+Go to http://www.yourdomain.com/install/ and follow instructions.
+Follow step by step wizard to install Video Downloader Script and fill in all the fields that are required.
+If you See Successful Installation message Please delete /install directory from your website.
+
+Version 1.1 [2018-01-10]
+
+- Removed the youtube-dl dependency (Now it will work on shared hosting).
+- Changed the Dailymotion video download method (Directly from server).
+- Added API keys support to download videos from multiple sources.
+- Minor Bugs Fixes.
+- Overall Optimize the script (Fast Fetch Downloads).
+
+website http://www.20script.ir
+
+by codedigger
